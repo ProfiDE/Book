@@ -22,3 +22,7 @@ If you plan to modify or add multiple pages, open individual issues for each and
 A special thanks to everyone who contributed to writing this book.
 
 - [ProfiDE](https://github.com/ProfiDE/)
+
+## Disclaimer
+
+This book is provided for educational and informational purposes only. Content may become outdated and should not be treated as professional advice. The authors and contributors are not responsible for misuse of the information herein or for any damages resulting from its application. Use the material responsibly and in compliance with applicable laws.
