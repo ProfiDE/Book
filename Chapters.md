@@ -1,0 +1,40 @@
+# ProfiDE Book Chapters
+
+An index of chapters organized by topic. Each top-level directory is a section; files inside are individual chapters or pages.
+
+---
+
+## Security
+
+Topics on information security, defensive practices, and core security concepts.
+
+| Chapter | File | Summary |
+|---------|------|---------|
+| CIA Triad | [CIA-Triad.md](Security/CIA-Triad.md) | Confidentiality, integrity, and availability—the three foundational principles of information security. |
+
+---
+
+## Story
+
+Short stories and creative writing.
+
+| Chapter | File | Summary |
+|---------|------|---------|
+| The Parrot | [parrot](Story/parrot) | A morning at the park and a conversation with a free parrot among the trees. |
+
+---
+
+## How to Read
+
+Chapters live in topic folders at the repo root. Open any file linked above, or browse the directories directly:
+
+```
+Book/
+├── Chapters.md      ← you are here
+├── Security/
+│   └── CIA-Triad.md
+└── Story/
+    └── parrot
+```
+
+New sections will show up here as folders and files are added to the book. If you notice something missing, feel free to open an issue to let us know!
