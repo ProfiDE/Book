@@ -21,7 +21,7 @@ Short stories and creative writing.
 
 | Chapter | File | Summary |
 |---------|------|---------|
-| The Parrot | [parrot](Story/parrot) | A morning at the park and a conversation with a free parrot among the trees. |
+| The Parrot | [The-Parrot.md](Story/The-Parrot.md) | A morning at the park and a conversation with a free parrot among the trees. |
 
 ---
 
@@ -36,7 +36,7 @@ Book/
 │   ├── CIA-Triad.md
 │   └── DAD-Triad.md
 └── Story/
-    └── parrot
+    └── The-Parrot.md
 ```
 
 New sections will show up here as folders and files are added to the book. If you notice something missing, feel free to open an issue to let us know!
