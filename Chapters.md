@@ -11,6 +11,7 @@ Topics on information security, defensive practices, and core security concepts.
 | Chapter | File | Summary |
 |---------|------|---------|
 | CIA Triad | [CIA-Triad.md](Security/CIA-Triad.md) | Confidentiality, integrity, and availability—the three foundational principles of information security. |
+| DAD Triad | [DAD-Triad.md](Security/DAD-Triad.md) | Disclosure, alteration, and denial—the attacker's counterpart to CIA and a framework for understanding threat goals. |
 
 ---
 
@@ -32,7 +33,8 @@ Chapters live in topic folders at the repo root. Open any file linked above, or 
 Book/
 ├── Chapters.md      ← you are here
 ├── Security/
-│   └── CIA-Triad.md
+│   ├── CIA-Triad.md
+│   └── DAD-Triad.md
 └── Story/
     └── parrot
 ```
