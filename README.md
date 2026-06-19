@@ -1,7 +1,7 @@
 # ProfiDE Book
 
 > [!IMPORTANT]
-> This is a magical and useful book, so don't expect a strict structure. You are welcome to read it and are encouraged to contribute to this project.
+> This is more than just a book – it's a living, growing collection of knowledge that welcomes everyone. Whether you're a beginner or an expert, you can add a new page, improve an existing one, or simply fix a typo. Every contribution matters, no matter how small. So dive in, explore, and leave your mark – this project is shaped by people like you!
 
 An ever-evolving book that covers a wide range of topics, from IT to simple stories. Focused on useful subjects including programming, networking, security, and more.
 
