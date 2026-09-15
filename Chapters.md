@@ -15,6 +15,16 @@ Topics on information security, defensive practices, and core security concepts.
 
 ---
 
+## Network
+
+Topics on computer networking fundamentals, protocols, and architectural models.
+
+| Chapter | File | Summary |
+|---------|------|---------|
+| The OSI Model | [OSI-Model.md](Network/OSI-Model.md) | A 7-layer conceptual framework describing how data travels across network systems from application to physical medium. |
+
+---
+
 ## Story
 
 Short stories and creative writing.
@@ -32,6 +42,8 @@ Chapters live in topic folders at the repo root. Open any file linked above, or 
 ```
 Book/
 ├── Chapters.md      ← you are here
+├── Network/
+│   └── OSI-Model.md
 ├── Security/
 │   ├── CIA-Triad.md
 │   └── DAD-Triad.md
@@ -40,3 +52,4 @@ Book/
 ```
 
 New sections will show up here as folders and files are added to the book. If you notice something missing, feel free to open an issue to let us know!
+
